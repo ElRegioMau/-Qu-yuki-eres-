@@ -1,0 +1,5 @@
+{
+  "method": "weighted-sum",
+  "tieBreaker": ["vainilla", "fresa", "limon", "tamarindo", "pina", "uva", "chicle", "chamoy"],
+  "resultFormat": "primary-plus-secondary"
+}

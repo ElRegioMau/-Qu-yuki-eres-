@@ -1,0 +1,1 @@
+.about-page{padding:34px 0}.about-hero{margin-bottom:16px}.about-hero p{max-width:820px;color:var(--muted);font-size:1.1rem}.about-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}.about-grid .card,.credits{padding:28px}.about-grid p,.credits p{color:var(--muted);font-weight:700}@media(max-width:800px){.about-grid{grid-template-columns:1fr}}
